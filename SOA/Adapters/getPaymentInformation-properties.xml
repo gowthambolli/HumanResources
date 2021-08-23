@@ -1,7 +1,7 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-   <entry key="${{FD_PAYMENTINFO}}">4</entry>
+   <entry key="E2E_1201_PAYMENTINFO.EXPIRE_DATE:db_column_size">4</entry>
    <entry key="E2E_1201_PAYMENTINFO:db_table_type">TABLE</entry>
    <entry key="E2E_1201_PAYMENTINFO.EXPIRE_DATE:db_column_not_null">false</entry>
    <entry key="E2E_1201_PAYMENTINFO.FIRST_NAME:db_column_not_null">false</entry>
