@@ -44,7 +44,7 @@
       </component>
       <reference name="getPaymentInformation"/>
       <reference name="getPaymentInformation">
-         <property name="jca.retry.count">
+         <property name="${{FD_count}}">
             <replace>4</replace>
          </property>
          <property name="jca.retry.interval">
