@@ -29,7 +29,7 @@
          <replace>12.1.3.0.0</replace>
       </property>
       <property name="compositeID">
-         <replace>${{TEMP_VAR}}</replace>
+         <replace>${{FD_CompositeID}}</replace>
       </property>
       <!--Add search and replace rules for the component properties
 	For components and service/reference bindings, you can add policy references.
